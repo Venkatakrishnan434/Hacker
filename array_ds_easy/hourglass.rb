@@ -1,7 +1,7 @@
-
+# Complete the function hourglassSum in the editor below.
 
 def hourglassSum(arr)
-    # Write your code here
+   
     temp = []
     4.times do |i|
         4.times do |j|
